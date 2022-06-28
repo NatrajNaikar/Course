@@ -7,3 +7,6 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+print("My Name: Nataraj Naikar")
+print("Elective module:Algorithm Analysis")
+print("Exploratory data analysis.In that there are two types of variables.. Catagorical and quantitative variable.Categorical can be classified into two categories:Ordered and Unordered and quantitative variabes are simple numeric variable.")
